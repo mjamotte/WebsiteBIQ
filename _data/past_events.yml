@@ -1,9 +1,47 @@
-- title: "Synthetic gauge fields with ultracold atoms [05 May 2022]"
+- title: "Synthetic gauge fields with ultracold atoms"
+  headline: Colloquium BQPi
+  date: 05 May 2022
   image: bqpi_logo.png
-  description: Colloquium BQPi
-  description_author: "Speaker:"
-  author: Monika Aidelsburger
-  author_page: https://scholar.google.gr/citations?user=Aqh55ogAAAAJ&hl=en
+  description: 
+  description_authors: "Speaker:"
+  authors: Monika Aidelsburger
+  authors_page: https://scholar.google.gr/citations?user=Aqh55ogAAAAJ&hl=en
   link: 
-    url: https://www.nathan-goldman-physics.com/bqi-meetings
+    url: https://www.nathan-goldman-physics.com/_files/ugd/b56e69_71320543c5f043a199ce2c1d80adf9bf.pdf
+    display: Click here for more information 
+
+- title: "The body of quantum correlations in the minimal scenario"
+  headline: Colloquium BQPi
+  date: 09 Dec 2021
+  image: bqpi_logo.png
+  description: 
+  description_authors: "Speaker:"
+  authors: Reinhard Werner
+  authors_page: https://www.itp.uni-hannover.de/de/ag/werner/
+  link: 
+    url: https://nathan.goldman.web.ulb.be/Dec_9_2021.pdf
+    display: Click here for more information
+
+- title: "Classical time crystals at finite temperature"
+  headline: Colloquium BQPi
+  date: 06 May 2021
+  image: bqpi_logo.png
+  description: 
+  description_authors: "Speaker:"
+  authors: Mike Zaletel
+  authors_page: https://physics.berkeley.edu/people/faculty/mike-zaletel
+  link: 
+    url: https://nathan.goldman.web.ulb.be/May_6_2021.pdf
+    display: Click here for more information
+
+- title: "Noisy Intermediate-Scale Quantum algorithms"
+  headline: Colloquium BQPi
+  date: 04 Mar 2021
+  image: bqpi_logo.png
+  description: 
+  description_authors: "Speaker:"
+  authors:  Alba Cervera Liert
+  authors_page: https://albacl.github.io/
+  link: 
+    url: https://nathan.goldman.web.ulb.be/March_4_2021.pdf
     display: Click here for more information

@@ -5,11 +5,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group from ULB. Our aim is to explore and understand quantum materials.
+A pluridisciplinary quantum center located at the Université Libre de Bruxelles (ULB).
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+<!--<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+     Menu 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -20,7 +20,7 @@ We are a dynamic research group from ULB. Our aim is to explore and understand q
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+     Items
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -40,8 +40,8 @@ We are a dynamic research group from ULB. Our aim is to explore and understand q
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    </div>-->
+  <!--<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -49,15 +49,29 @@ We are a dynamic research group from ULB. Our aim is to explore and understand q
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
-
+</div>-->
 
 <figure class="fourth">
-  <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logos.png" style="width: 600px">
-  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ulb_logo.jpg" style="width: 90px">
+  <p align="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home_pic3.png" style="width: 590px">
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logos.png" style="width: 600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ulb_logo.jpg" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fnrs_logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/solvay_logo.png" style="width: 110px"> -->
   </p>
 </figure>
+
+
+<figure class="fourth">
+  <p align="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ULB_ligne_droite.jpg" style="width: 590px">
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logos.png" style="width: 600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ulb_logo.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fnrs_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/solvay_logo.png" style="width: 110px"> -->
+  </p>
+</figure>
+
+

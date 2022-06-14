@@ -22,14 +22,13 @@ permalink: /events/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ event.title }} [{{ event.date }}] </pubtit> 
-  {{ event.headline }}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ event.image }}" class="img-responsive" width="33%" style="float: left" />
+  <pubtit>{{ event.title }}  </pubtit> 
+  <p>{{ event.headline }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ event.image }}" class="img-responsive" width="25%" style="float: left" />
   <p>{{ event.description }}</p>
-  <p><em>{{ event.authors }}</em></p>
+  <p><b> [{{ event.date }}]</p>
+  <p><em> {{ event.description_authors }} <a href="{{event.authors_page}}">{{ event.authors}}</a></em></p>
   <p><strong><a href="{{ event.link.url }}">{{ event.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ event.news1 }}</strong></p>
-  <p> {{ event.news2 }}</p>
  </div>
 </div>
 
@@ -57,15 +56,15 @@ permalink: /events/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ past_event.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ past_event.image }}" class="img-responsive" width="33%" style="float: left" />
+<div class="col-sm-6 clearfix" >
+ <div class="well" style="background: #F5F5DC;;">
+  <pubtit>{{ past_event.title }}  </pubtit> 
+  <p>{{ past_event.headline }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ past_event.image }}" class="img-responsive" width="25%" style="float: left" />
   <p>{{ past_event.description }}</p>
-  <p><em> {{ past_event.description_author }} <a href="{{past_event.author_page}}">{{ past_event.author }}</a></em></p>
+  <p><b> [{{ past_event.date }}]</p>
+  <p><em> {{ past_event.description_authors }} <a href="{{past_event.authors_page}}">{{ past_event.authors }}</a></em></p>
   <p><strong><a href="{{ past_event.link.url }}">{{ past_event.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ past_event.news1 }}</strong></p>
-  <p> {{ past_event.news2 }}</p>
  </div>
 </div>
 
