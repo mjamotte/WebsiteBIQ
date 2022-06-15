@@ -10,8 +10,8 @@ title: Brussels Institute for Quantum
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Brussels Institute for Quantum.
-baseurl: ""
-url: ""
+baseurl: "/WebsiteBIQ"
+url: "https://mjamotte.github.io"
 
 include:
   - .htaccess
