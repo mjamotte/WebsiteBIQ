@@ -1,0 +1,96 @@
+- title: Quantum Simulations 2021
+  headline: Solvay workshop
+  date: 29-31 Aug 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description_authors: "Organized by"
+  authors: Nathan Goldman
+  authors_page: https://www.nathan-goldman-physics.com/contact
+  link:
+    url: http://www.solvayinstitutes.be/event/workshop/quantum_2021/quantum_2021.html
+    display: Click here for more information
+  highlight: 1
+
+- title: "Inauguaral Lecture: 'A brief history of cold atoms'"
+  headline: 2021 Solvay International Chair in Physics
+  date: 07 Sept 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description: 
+  description_authors: "Lecture by"
+  authors: Jean Dalibard
+  authors_page: https://pro.college-de-france.fr/jean.dalibard/index_en.html
+  link:
+    url: http://www.solvayinstitutes.be/pdf/Chairs/2022/J_Dalibard.pdf
+    display: Click here for more information
+  highlight: 1
+
+- title: "From Bose-Einstein condensation to Kosterlitz-Thouless physics"
+  headline: 2021 Solvay International Chair in Physics
+  date: 20 Sept 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description: 
+  description_authors: "Lecture by"
+  authors: Jean Dalibard
+  authors_page: https://pro.college-de-france.fr/jean.dalibard/index_en.html
+  link:
+    url: http://www.solvayinstitutes.be/pdf/Chairs/2022/J_Dalibard.pdf
+    display: Click here for more information
+  highlight: 1
+
+
+- title: "Controlling atomic interactions: Scale invariance tested in the laboratory"
+  headline: 2021 Solvay International Chair in Physics
+  date: 23 Sept 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description: 
+  description_authors: "Lecture by"
+  authors: Jean Dalibard
+  authors_page: https://pro.college-de-france.fr/jean.dalibard/index_en.html
+  link:
+    url: http://www.solvayinstitutes.be/pdf/Chairs/2022/J_Dalibard.pdf
+    display: Click here for more information
+  highlight: 1
+
+- title: "A droplet of spin-1 atoms: the simplest many-body system"
+  headline: 2021 Solvay International Chair in Physics
+  date: 30 Sept 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description_authors: "Lecture by"
+  authors: Jean Dalibard
+  authors_page: https://pro.college-de-france.fr/jean.dalibard/index_en.html
+  link:
+    url: http://www.solvayinstitutes.be/pdf/Chairs/2022/J_Dalibard.pdf
+    display: Click here for more information
+  highlight: 1
+
+- title: "TBA"
+  headline: Colloquium BQPi
+  date: 20 Oct 2022
+  image: bqpi_logo.png
+  picture: "<img src='/images/logopic/bqpi_logo.png' class='img-responsive' style='width: 50px' />"
+  description: 
+  authors:
+  link:
+    url: https://www.nathan-goldman-physics.com/bqi-meetings
+    display: Click here for more information
+  highlight: 1
+
+- title: "TBA"
+  headline: Colloquium BQPi
+  date: 09 Dec 2022
+  image: bqpi_logo.png
+  picture: "<img src='/images/logopic/bqpi_logo.png' class='img-responsive' style='width: 50px' />"
+  description:
+  description_authors: "Speaker:"
+  authors: Alexander Altland
+  authors_page: "http://www.thp.uni-koeln.de/alexal/index.html"
+  link:
+    url: https://www.nathan-goldman-physics.com/bqi-meetings
+    display: Click here for more information
+  highlight: 1
+
+
