@@ -22,9 +22,9 @@ permalink: /teaching/
 
 ### Quantum optics
 
-[PHYS-F474](https://www.ulb.be/fr/programme/phys-f474-1) - Quantum optics (lectures by Serge Massar, Stephan Clemmen)
+[PHYS-F474](https://www.ulb.be/fr/programme/phys-f474-1) - Quantum optics (lectures by Serge Massar, Stéphane Clemmen)
 
-[PHYS-Y502](https://www.ulb.be/fr/programme/phys-y502-1) - Quantum optics II (lectures by Stephan Clemmen)
+[PHYS-Y502](https://www.ulb.be/fr/programme/phys-y502-1) - Quantum optics II (lectures by Stéphane Clemmen)
 
 
 <br/>
