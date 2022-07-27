@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-A pluridisciplinary quantum center located at the Université Libre de Bruxelles (ULB).
+A interdisciplinary quantum center located at the Université Libre de Bruxelles (ULB).
 
 
 <!--<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
