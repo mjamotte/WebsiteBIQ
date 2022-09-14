@@ -1,3 +1,30 @@
+- title: Quantum Simulations 2021
+  headline: Solvay workshop
+  date: 29-31 Aug 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description_authors: "Organized by"
+  authors: Nathan Goldman
+  authors_page: https://www.nathan-goldman-physics.com/contact
+  link:
+    url: http://www.solvayinstitutes.be/event/workshop/quantum_2021/quantum_2021.html
+    display: Click here for more information
+  highlight: 1
+
+- title: "Inauguaral Lecture: 'A brief history of cold atoms'"
+  headline: 2021 Solvay International Chair in Physics
+  date: 07 Sept 2022
+  image: solvay_logo.png
+  picture: "<img src='/images/logopic/solvay_logo.png' class='img-responsive' style='width: 50px' />"
+  description: 
+  description_authors: "Lecture by"
+  authors: Jean Dalibard
+  authors_page: https://pro.college-de-france.fr/jean.dalibard/index_en.html
+  link:
+    url: http://www.solvayinstitutes.be/pdf/Chairs/2022/J_Dalibard.pdf
+    display: Click here for more information
+  highlight: 1
+
 - title: "Synthetic gauge fields with ultracold atoms"
   headline: Colloquium BQPi
   date: 05 May 2022
